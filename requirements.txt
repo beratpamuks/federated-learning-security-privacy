@@ -1,0 +1,3 @@
+# No executable implementation is included in the current research version.
+# Add pinned dependencies only when a reproducible simulation/implementation
+# is added to the repository.
